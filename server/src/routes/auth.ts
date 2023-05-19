@@ -2,6 +2,7 @@ import { FastifyInstance } from 'fastify'
 import axios from 'axios'
 import { z } from 'zod'
 import { prisma } from '../lib/prisma'
+// import { prisma } from '../lib/prisma'
 
 export async function authRoutes(app: FastifyInstance) {
   app.post('/register', async (request) => {
