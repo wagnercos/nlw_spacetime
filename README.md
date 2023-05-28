@@ -36,9 +36,6 @@
 <br />
 
 <p align="center">
-  <img alt="NLW_Spacetime" src="https://i.ibb.co/jMtQCT2/screencapture-localhost-3000-2023-05-27-09-14-48.png" />
-
-
 </p>
 
 <br />
